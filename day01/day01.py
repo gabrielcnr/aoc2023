@@ -46,4 +46,3 @@ if __name__ == '__main__':
 
     p1 = sum_numbers_on_lines_of_text(puzzle_input)
     print(f'Part 1: {p1}')
-   
